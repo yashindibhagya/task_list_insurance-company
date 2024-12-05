@@ -58,6 +58,6 @@ Alternatively, use an emulator (e.g., Android Studio or Xcode).
 4. Complete Tasks: Mark tasks as completed once done.
 
 ## Future Enhancements
-**Integration with the company’s backend for real-time task updates.**
-**Push notifications for new task assignments.**
-**Enhanced analytics for accessors and management.**
+-Integration with the company’s backend for real-time task updates.
+-Push notifications for new task assignments.
+-Enhanced analytics for accessors and management.
